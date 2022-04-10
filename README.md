@@ -8,10 +8,10 @@ I have sound effects and music, CSG, Lighting, an elaborate level, a couple of e
 
 ## References
 Key 3D Model by Kenney.nl - https://www.kenney.nl/assets/platformer-kit
-/n Key Sound by Phenala on Freesound - https://freesound.org/people/Phenala/sounds/478647/
-/n Enemy Sound by Scorepion on Freesound - https://freesound.org/people/scorepion/sounds/333993/
-/n Robot and Body by Kenney.nl - https://kenney.nl/assets/blocky-characters
-/n "Beware the Monster" by Patrick De Arteaga - https://patrickdearteaga.com/royalty-free-music/page-2/
+<br /> Key Sound by Phenala on Freesound - https://freesound.org/people/Phenala/sounds/478647/
+<br /> Enemy Sound by Scorepion on Freesound - https://freesound.org/people/scorepion/sounds/333993/
+<br />Robot and Body by Kenney.nl - https://kenney.nl/assets/blocky-characters
+<br /> "Beware the Monster" by Patrick De Arteaga - https://patrickdearteaga.com/royalty-free-music/page-2/
 ## Future Development
 None
 ## Created by
